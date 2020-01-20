@@ -112,7 +112,7 @@ in the previous phase.
 <ul>
 <li> KNN:
 
-Now , we tried KNN(nearest neighbor) method to find
+KNN(nearest neighbor) method to find
 the suitable model for our dataset. </li>
 
 <li> CART:
