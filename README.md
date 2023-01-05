@@ -54,7 +54,6 @@ If we skip this step then there is a higher chance that you are
 working with noisy and inconsistent data.
 
 <ul>
-<li>
 <li> PCA :
 
 Principal Component Analysis is a technique used for
@@ -70,7 +69,9 @@ most frequent value.  </li>
 Once we finish cleaning up the data we move to encoding
 categorical values we use a technique called label encoding or one
 hot encoding it depends with the number of categorical values .
+
 ### Modeling:
+
 #### Segmentation:
 
 In order to create our segments, we thought of using K-means,
